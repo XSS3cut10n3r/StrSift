@@ -27,7 +27,7 @@ StrSift extracts printable strings from binary files with support for multiple c
 ### Building
 
 ```bash
-git clone https://github.com/yourusername/strsift.git
+git clone https://github.com/XSS3cut01n3r/strsift.git
 cd strsift
 gcc -o strsift strsift.c -O2
 sudo cp strsift /usr/local/bin/  # optional
